@@ -1,0 +1,3 @@
+curl -I http://devkit.ro
+whois http://devkit.ro
+nikto -h  http://devkit.ro
